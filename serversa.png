@@ -1,0 +1,20 @@
+ {
+servers =     (
+                {
+            ServerName = hahahaA;
+            country = US;
+            CountryName" = "USA";
+            Server = "123.34.23.44";
+            Ping = 52;
+            Password = hahahaha;
+        },{
+             ServerName = hahahaA;
+            country = US;
+            CountryName" = "USA";
+            Server = "123.34.23.44";
+            Ping = 52;
+            Password = hahahaha;
+        }
+
+)
+}
