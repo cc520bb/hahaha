@@ -89,5 +89,15 @@
         "Ping": 52,
         "Password": "hahahaha",
         "isvip":"0"
+    }, {
+        "name": "Google",
+        "ServerName": "hahaha",
+        "country": "sg",
+        "CountryName": "Singapore",
+        "Server": "149.28.144.108",
+        "Ping": 52,
+        "Password": "hahahaha",
+        "isvip":"0"
     }]
 }
+
