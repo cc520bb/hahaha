@@ -3,8 +3,8 @@
         "name": "Google",
         "ServerName": "hahaha",
         "country": "US",
-        "CountryName": "US-Seattle",
-        "Server": "66.42.70.255",
+        "CountryName": "US-Atlanta2",
+        "Server": "66.42.93.196",
         "Ping": 52,
         "Password": "hahahaha",
         "isvip":"0"
@@ -30,35 +30,8 @@
         "name": "Google",
         "ServerName": "hahaha",
         "country": "US",
-        "CountryName": "US-Chicago",
-        "Server": "45.76.22.138",
-        "Ping": 52,
-        "Password": "hahahaha",
-        "isvip":"0"
-    }, {
-        "name": "Google",
-        "ServerName": "hahaha",
-        "country": "US",
-        "CountryName": "US-Dallas",
-        "Server": "144.202.73.22",
-        "Ping": 52,
-        "Password": "hahahaha",
-        "isvip":"0"
-    }, {
-        "name": "Google",
-        "ServerName": "hahaha",
-        "country": "GB",
-        "CountryName": "GB-London",
-        "Server": "209.222.30.62",
-        "Ping": 52,
-        "Password": "hahahaha",
-        "isvip":"0"
-    }, {
-        "name": "Google",
-        "ServerName": "hahaha",
-        "country": "US",
         "CountryName": "US-LosAngeles",
-        "Server": "66.42.99.203",
+        "Server": "108.61.219.31",
         "Ping": 52,
         "Password": "hahahaha",
         "isvip":"0"
@@ -70,7 +43,7 @@
         "Server": "149.28.105.126",
         "Ping": 52,
         "Password": "hahahaha",
-        "isvip":"0"
+        "isvip":"1"
     }, {
         "name": "Google",
         "ServerName": "hahaha",
@@ -79,25 +52,35 @@
         "Server": "167.179.81.144",
         "Ping": 52,
         "Password": "hahahaha",
-        "isvip":"0"
+        "isvip":"1"
     }, {
         "name": "Google",
         "ServerName": "hahaha",
-        "country": "CA",
-        "CountryName": "CA-Toronto",
-        "Server": "155.138.156.217",
+        "country": "US",
+        "CountryName": "US-NewJersey",
+        "Server": "45.76.2.116",
         "Ping": 52,
         "Password": "hahahaha",
-        "isvip":"0"
+        "isvip":"1"
+    }, {
+        "name": "Google",
+        "ServerName": "hahaha",
+        "country": "US",
+        "CountryName": "US-SiliconValley",
+        "Server": "144.202.98.212",
+        "Ping": 52,
+        "Password": "hahahaha",
+        "isvip":"1"
     }, {
         "name": "Google",
         "ServerName": "hahaha",
         "country": "sg",
-        "CountryName": "Singapore",
-        "Server": "149.28.144.108",
+        "CountryName": "Singapore2",
+        "Server": "45.77.32.8",
         "Ping": 52,
         "Password": "hahahaha",
-        "isvip":"0"
+        "isvip":"1"
     }]
 }
+
 
