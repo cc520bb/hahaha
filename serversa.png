@@ -80,6 +80,15 @@
         "Ping": 52,
         "Password": "hahahaha",
         "isvip":"1"
+    }, {
+        "name": "Google",
+        "ServerName": "hahaha",
+        "country": "de",
+        "CountryName": "Frankfurt",
+        "Server": "199.247.23.211",
+        "Ping": 52,
+        "Password": "hahahaha",
+        "isvip":"1"
     }]
 }
 
